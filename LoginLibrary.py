@@ -1,5 +1,3 @@
-#added a comment for JIRA id: GIT-1
-
 """Robot Framework test library example that calls C code.
 
 This example uses Python's standard `ctypes` module, which requires
